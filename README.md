@@ -1,9 +1,5 @@
 ### ReactPaper_01
-This is for react practical test 1 given on 22-Jan-2024
-
-**BACKEND DETAILS**   
-- CONNECTION NAME:   ReactPaper_1   
-- DATABSE NAME:   HospitalReception_RP1   
+This is for react practical test 1 given on 22-Jan-2024  
 
 **DEPENDENCIES**   
 1. CLIENT      
